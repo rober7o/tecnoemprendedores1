@@ -1,0 +1,24 @@
+<manifest alg="2" build="375" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1422243806059">
+  <folder name="images">
+    <file name="reservas.gif" crc="142807068" ref="index"/>
+    <file name="camaras.jpg" crc="3939505332" ref="index"/>
+    <file name="reservas.png" crc="394768246" ref="index"/>
+    <file name="gran_evento-04.jpg" crc="294265585" ref="index"/>
+    <file name="información.png" crc="414627403" ref="index"/>
+    <file name="safdas.gif" crc="4196104126" ref="index"/>
+    <file name="subsidios.jpg" crc="3983957477" ref="index"/>
+    <file name="ddddd.jpg" crc="3829010205" ref="index"/>
+    <file name="google-map-pointer-pink-hi.png" crc="274927442" ref="index"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="475549095"/>
+    <file name="index.css" crc="4080495629" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4146222537" ref="index"/>
+    <file name="museutils.js" crc="135030331" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="377079819" ref="index"/>
+  </folder>
+  <file name="index.html" crc="210416187" mt="1422243805243" redirect="true"/>
+</manifest>
